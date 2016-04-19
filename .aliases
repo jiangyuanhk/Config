@@ -1,0 +1,25 @@
+#git commands
+alias cl='clear'
+alias gs='git status '
+alias ga='git add '
+alias gb='git branch '
+alias gc='git commit'
+alias gd='git diff'
+alias go='git checkout '
+alias gk='gitk --all&'
+alias gx='gitx --all'
+alias got='git '
+alias get='git '
+
+#lock the computer 
+alias lock='/System/Library/CoreServices/"Menu Extras"/User.menu/Contents/Resources/CGSession -suspend'
+
+
+#reload the shell
+alias reload='exec $SHELL'
+
+#making dir
+alias md='mkdir'
+
+#replacing mac's old emac with emacs24.5
+alias emacs='/usr/local/Cellar/emacs/24.5/bin/emacs'
