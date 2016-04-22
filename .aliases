@@ -23,3 +23,6 @@ alias md='mkdir'
 
 #replacing mac's old emac with emacs24.5
 alias emacs='/usr/local/Cellar/emacs/24.5/bin/emacs'
+
+#ios dev
+alias simulatorClearCache='xcrun simctl erase all'
